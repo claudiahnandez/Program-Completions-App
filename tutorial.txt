@@ -1,0 +1,29 @@
+<h1>Tutorial</h1>
+<p>Welcome to the Program Completions App. This app is used to &nbsp;view the number of completers and the time it took the completers to finish program. The data will be divided into a series of tabs all varying in graphs and forms of disaggregation. Possible forms of disaggregation involve:</p>
+<ul>
+<li>Program</li>
+<li>Award Type</li>
+<li>Chart Syle</li>
+<li>Plot Style</li>
+<li>Time Scale</li>
+<li>Terms</li>
+<li>Gender</li>
+<li>Ethnicity</li>
+<li>Proportion of Units at SGEC&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>(Explained Bellow)</em></li>
+<li>Proportion of Units Online&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>&nbsp;(Explained Bellow)</em></li>
+<li>Minimum Proportion of Students&nbsp; &nbsp; &nbsp; <em>(Explained Bellow)</em></li>
+<li>Completers Groups&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>(Explained Bellow)</em></li>
+</ul>
+<p>You may only access appp using ELAC's network. To retrieve data you will must click the "Submit" blue button on the right hand side.</p>
+<p>Should you disaggregate too much an error message will pop up notifying you of no data, it is recommended at this point to chose a broader filter. Similarily should no students have been awarded any awards for the specific program regardless of filter you chose a pop-up will notify you of no awards and the submit button will disappear (it will reapear if a diffrent program is chosen).</p>
+<p>Also note that changing tabs and altering what program you want to see will not change other tabs you may have view with other filters and programs. For your conveniance there is a box in every tab notifying you of what program was chosen and what awards you viewed.&nbsp;</p>
+<h3>Manuvering Graphs</h3>
+<p>The graphs in this app are interactive and can do several important functionalities.&nbsp;</p>
+<p>Please refer to the following link for further assistance <span style="text-decoration: underline;"><a href="https://help.plot.ly/zoom-pan-hover-controls/">plotly graph tutorial</a>.</span></p>
+<h3>Terminology Explained....</h3>
+<ul>
+<li>Proportion of Units at SGEC&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>(Explained Bellow)</em></li>
+<li>Proportion of Units Online&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>&nbsp;(Explained Bellow)</em></li>
+<li>Minimum Proportion of Students&nbsp; &nbsp; &nbsp; <em>(Explained Bellow)</em></li>
+<li>Completers Groups&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>(Explained Bellow)</em></li>
+</ul>

@@ -1,0 +1,68 @@
+html *
+{
+  font-family: "Georgia", Times, "Times New Roman", serif;
+}
+
+.main-header .logo {
+  font-family: "Georgia", Times, "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.selectize-dropdown {line-height: 2vw; 
+font-family: "Georgia", Times, "Times New Roman", serif;
+
+}
+
+.selectize-input {line-height: 2vw;font-size:14px;
+
+}
+
+#chart-style-box{
+  width: 120%;
+}
+
+#award-type-check-box{
+  width: 155%;
+}
+
+.content-wrapper, .right-side {
+    background-color: #fdf4ee;
+
+}
+
+
+.btn-default {
+
+    margin-bottom: 15px;
+}
+
+.bttn-gradient.bttn-primary{
+  margin-bottom: 15px;
+  background-image: -webkit-linear-gradient(93deg,#153769,#1a7986);
+}
+
+.box.box-solid.box-primary>.box-header {
+    background-color: #153769;
+}
+
+.box {
+    border-top: 3px solid #153769;
+}
+
+.box.box-primary {
+    background: #fffbd7;
+}
+.nav-tabs-custom>.nav-tabs>li.active {
+    border-top-color: #153769;
+}
+
+.skin-black .main-header .navbar>.sidebar-toggle {
+    color: #fff;
+    border-right: 1px solid #fff;
+}
+
+.main-header .logo {
+  height: 59px;
+}
+/*ggplot yellow ochre color #eeb422  */
